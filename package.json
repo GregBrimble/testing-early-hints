@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@cloudflare/pages-plugin-early-hints": "^0.0.1"
+  },
+  "devDependencies": {
+    "wrangler": "^2.0.17"
+  }
+}
